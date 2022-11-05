@@ -22,3 +22,6 @@ Route::get('/cusco', function () {
 Route::get('/navegable', function () {
     return view('navegable');
 });
+Route::get('/login', function () {
+    return view('login');
+});
