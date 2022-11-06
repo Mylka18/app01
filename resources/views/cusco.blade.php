@@ -23,13 +23,13 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="https://www.perurail.com/wp-content/uploads/2020/06/Monta%C3%B1a-de-los-7-colores-Cusco.jpg" class="d-block w-100" alt="...">
+                <img src="https://www.perurail.com/wp-content/uploads/2020/06/Monta%C3%B1a-de-los-7-colores-Cusco.jpg" class="d-block w-100" alt="Slide 1">
                 </div>
                 <div class="carousel-item">
-                <img src="https://cdn.forbes.pe/2022/10/Cusco-Peru.jpg" class="d-block w-100" alt="...">
+                <img src="https://cdn.forbes.pe/2022/10/Cusco-Peru.jpg" class="d-block w-100" alt="Slide 2">
                 </div>
                 <div class="carousel-item">
-                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/ba/cusco.jpg?w=700&h=500&s=1" class="d-block w-100" alt="...">
+                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/ba/cusco.jpg?w=700&h=500&s=1" class="d-block w-100" alt="Slide 3">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
